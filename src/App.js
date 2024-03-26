@@ -7,7 +7,7 @@ const internsData = [
     name: 'Fine Tappi',
     picture: 'https://th.bing.com/th/id/OIP.wqlODACOWAusYw3FnmhftgHaKf?pid=ImgDet&w=192&h=272&c=7&dpr=2',
     program: 'Software Engineering',
-    email: 'fine.tappi@example.com',
+    email: 'finetappi@example.com',
     grade: 92,
   },
   {
@@ -15,7 +15,7 @@ const internsData = [
     name: 'Samuel Chukwuma',
     picture: 'https://th.bing.com/th/id/R.e7d9494846b79cab71e92d4834da4c64?rik=DKCvQVJaw1evnA&pid=ImgRaw&r=0',
     program: 'Data Science',
-    email: 'samuel.chukwuma@example.com',
+    email: 'samuelchukwuma@example.com',
     grade: 88,
   },
   {
@@ -23,7 +23,7 @@ const internsData = [
     name: 'Asogwa ChiGod',
     picture: 'https://i.mdel.net/i/db/2021/3/1481855/1481855-500w.jpg',
     program: 'Web Development',
-    email: 'asogwa.chigod@example.com',
+    email: 'asogwachigod@example.com',
     grade: 95,
   },
   {
@@ -31,7 +31,7 @@ const internsData = [
     name: 'Onyenaucheya Chioma',
     picture: 'https://media.licdn.com/dms/image/D4E03AQF4jtU-zU31Xg/profile-displayphoto-shrink_800_800/0/1690476762447?e=2147483647&v=beta&t=aEc7uIpA8siH0ebdhiHqsIeKVEmCGJMlPJbj13TrezI',
     program: 'UX/UI Design',
-    email: 'onyenaucheya.chioma@example.com',
+    email: 'onyenaucheyachioma@example.com',
     grade: 100,
   },
 ];
